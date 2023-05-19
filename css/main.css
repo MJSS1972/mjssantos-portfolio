@@ -1084,7 +1084,7 @@ header {
 	position: fixed;
 	width: 100%;
 	min-height: 66px;
-	z-index: 600;
+	z-index: 600; 
 }
 header .row {
 	position: relative;
